@@ -2,6 +2,11 @@
 
 Walks like a dog and shows expressions through the OLED Display!
 
+##Mockup:
+<img width="4000" height="4000" alt="Robodog_Mockup_2025-Dec-15_08-08-14PM-000_CustomizedView29800453645_png_alpha" src="https://github.com/user-attachments/assets/85a7308b-dab9-4f4d-8a73-e6fda7bc3a10" />
+
+
+
 #### Controls
 This project is controlled by an ESP32 connected to 4 servos and a OLED Display (along with many other componenets like resistors) to power the Robodog. It can be controlled through a webpage emitted via the ESP32 Wi-Fi signals
 
