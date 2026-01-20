@@ -1,4 +1,4 @@
-## Robodog
+![SCH_Schematic1_1-P1_2026-01-21](https://github.com/user-attachments/assets/e8f06941-9e68-401c-867c-a0063da35dcd)## Robodog
 
 Walks like a dog and shows expressions through the OLED Display!
 
@@ -8,7 +8,12 @@ Walks like a dog and shows expressions through the OLED Display!
 
 
 #### Controls
-This project is controlled by an ESP32 connected to 4 servos and a OLED Display (along with many other componenets like resistors) to power the Robodog. It can be controlled through a webpage emitted via the ESP32 Wi-Fi signals
+This project is controlled by an ESP32 connected to 4 servos and a OLED Display (along with many other componenets like resistors) to power the Robodog. It can be controlled through a webpage emitted via the ESP32 Wi-Fi signals Here is a schematic to make it clearer:
+
+#### Schematic
+![Image](https://github.com/user-attachments/assets/a46e0ed9-e2f5-40da-85d5-1a1a43c346b6)
+
+
 
 #### Body
 The outer and inner shell are 3D printed and my screws are going to be from JLCMC.
