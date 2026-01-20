@@ -5,6 +5,10 @@ Walks like a dog and shows expressions through the OLED Display!
 ## Open View:
 <img width="4000" height="4000" alt="Robodog_Mockup_2025-Dec-15_08-08-14PM-000_CustomizedView29800453645_png_alpha" src="https://github.com/user-attachments/assets/85a7308b-dab9-4f4d-8a73-e6fda7bc3a10" />
 
+## Completed Robodog:
+<img width="2000" height="1125" alt="image" src="https://github.com/user-attachments/assets/ee477c48-2659-4c62-b3ef-52b25d10fa52" />
+
+
 
 
 #### Controls
