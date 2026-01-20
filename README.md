@@ -1,4 +1,4 @@
-![SCH_Schematic1_1-P1_2026-01-21](https://github.com/user-attachments/assets/e8f06941-9e68-401c-867c-a0063da35dcd)## Robodog
+## Robodog
 
 Walks like a dog and shows expressions through the OLED Display!
 
