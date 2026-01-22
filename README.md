@@ -17,6 +17,14 @@ This project is controlled by an ESP32 connected to 4 servos and a OLED Display 
 #### Schematic
 ![Image](https://github.com/user-attachments/assets/a46e0ed9-e2f5-40da-85d5-1a1a43c346b6)
 
+#### PCB
+<img width="1182" height="690" alt="image" src="https://github.com/user-attachments/assets/29211282-369c-41a6-bbfc-de0b9f092cbc" />
+<img width="1999" height="1166" alt="image" src="https://github.com/user-attachments/assets/213afb21-8085-40d6-87a2-690a93b3b91c" />
+<img width="1999" height="1166" alt="image" src="https://github.com/user-attachments/assets/05c37e71-e069-4d9d-982e-90f48aaff87e" />
+<img width="1999" height="1166" alt="image" src="https://github.com/user-attachments/assets/9bc8baca-346d-49de-8758-b08b7f00f090" />
+
+
+
 
 
 #### Body
